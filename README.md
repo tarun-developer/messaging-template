@@ -1,3 +1,4 @@
 # UI-of-chatapp
 it interface for chat app with list of user ,text-box and text-area
-https://github.com/tarun-developer/messaging-template/issues/1#issue-491281928
+![ui](https://user-images.githubusercontent.com/35330229/64560330-f1005800-d365-11e9-9955-f29bf5090e23.png)
+
